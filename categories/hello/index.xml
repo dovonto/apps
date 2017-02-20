@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hello on Dovonto App Site</title>
+    <link>/categories/hello/index.xml</link>
+    <description>Recent content in Hello on Dovonto App Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/categories/hello/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>SaaS Subscription Analytics</title>
+      <link>/apps/saas-subscription-analytics/nitro/</link>
+      <pubDate>Fri, 21 Jun 2013 11:27:27 -0400</pubDate>
+      
+      <guid>/apps/saas-subscription-analytics/nitro/</guid>
+      <description>
+
+&lt;p&gt;You can use the &lt;a href=&#34;https://github.com/dovonto/dovonto.github.io/edit/master/README.md&#34;&gt;editor on GitHub&lt;/a&gt; to maintain and preview the content for your website in Markdown files.&lt;/p&gt;
+
+&lt;p&gt;Whenever you commit to this repository, GitHub Pages will run &lt;a href=&#34;https://jekyllrb.com/&#34;&gt;Jekyll&lt;/a&gt; to rebuild the pages in your site, from the content in your Markdown files.&lt;/p&gt;
+
+&lt;h1 id=&#34;markdown&#34;&gt;Markdown&lt;/h1&gt;
+
+&lt;p&gt;Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;Syntax highlighted code block
+
+# Header 1
+## Header 2
+### Header 3
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;For more details see &lt;a href=&#34;https://guides.github.com/features/mastering-markdown/&#34;&gt;GitHub Flavored Markdown&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;jekyll-themes&#34;&gt;Jekyll Themes&lt;/h3&gt;
+
+&lt;p&gt;Your Pages site will use the layout and styles from the Jekyll theme you have selected in your &lt;a href=&#34;https://github.com/dovonto/dovonto.github.io/settings&#34;&gt;repository settings&lt;/a&gt;. The name of this theme is saved in the Jekyll &lt;code&gt;_config.yml&lt;/code&gt; configuration file.&lt;/p&gt;
+
+&lt;h3 id=&#34;support-or-contact&#34;&gt;Support or Contact&lt;/h3&gt;
+
+&lt;p&gt;Having trouble with Pages? Check out our &lt;a href=&#34;https://help.github.com/categories/github-pages-basics/&#34;&gt;documentation&lt;/a&gt; or &lt;a href=&#34;https://github.com/contact&#34;&gt;contact support&lt;/a&gt; and we’ll help you sort it out.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
