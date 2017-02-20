@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dovonto App Site</title>
-    <link>/index.xml</link>
+    <link>https://dovonto.github.io/apps/index.xml</link>
     <description>Recent content on Dovonto App Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 21 Jun 2013 11:27:27 -0400</lastBuildDate>
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://dovonto.github.io/apps/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>General Ledger Analytics</title>
-      <link>/apps/general-ledger-analytics/</link>
+      <link>https://dovonto.github.io/apps/apps/general-ledger-analytics/</link>
       <pubDate>Fri, 21 Jun 2013 11:27:27 -0400</pubDate>
       
-      <guid>/apps/general-ledger-analytics/</guid>
+      <guid>https://dovonto.github.io/apps/apps/general-ledger-analytics/</guid>
       <description>
 
 &lt;p&gt;&lt;img src=&#34;min2.jpg&#34; alt=&#34;Page Image&#34; /&gt;&lt;/p&gt;
@@ -59,10 +59,10 @@
     
     <item>
       <title>Nitro: A quick and simple profiler for Go</title>
-      <link>/apps/nitro/nitro/</link>
+      <link>https://dovonto.github.io/apps/apps/nitro/nitro/</link>
       <pubDate>Fri, 21 Jun 2013 11:27:27 -0400</pubDate>
       
-      <guid>/apps/nitro/nitro/</guid>
+      <guid>https://dovonto.github.io/apps/apps/nitro/nitro/</guid>
       <description>
 
 &lt;h1 id=&#34;nitro&#34;&gt;Nitro&lt;/h1&gt;
@@ -89,10 +89,10 @@ of the library.&lt;/p&gt;
     
     <item>
       <title>SaaS Subscription Analytics</title>
-      <link>/apps/saas-subscription-analytics/nitro/</link>
+      <link>https://dovonto.github.io/apps/apps/saas-subscription-analytics/nitro/</link>
       <pubDate>Fri, 21 Jun 2013 11:27:27 -0400</pubDate>
       
-      <guid>/apps/saas-subscription-analytics/nitro/</guid>
+      <guid>https://dovonto.github.io/apps/apps/saas-subscription-analytics/nitro/</guid>
       <description>
 
 &lt;p&gt;You can use the &lt;a href=&#34;https://github.com/dovonto/dovonto.github.io/edit/master/README.md&#34;&gt;editor on GitHub&lt;/a&gt; to maintain and preview the content for your website in Markdown files.&lt;/p&gt;
@@ -134,10 +134,10 @@ of the library.&lt;/p&gt;
     
     <item>
       <title></title>
-      <link>/about/</link>
+      <link>https://dovonto.github.io/apps/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/about/</guid>
+      <guid>https://dovonto.github.io/apps/about/</guid>
       <description>
 
 &lt;h1 id=&#34;what-are-dovonto-apps&#34;&gt;What are Dovonto Apps&lt;/h1&gt;
@@ -164,10 +164,10 @@ of the library.&lt;/p&gt;
     
     <item>
       <title></title>
-      <link>/getting-started/</link>
+      <link>https://dovonto.github.io/apps/getting-started/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/getting-started/</guid>
+      <guid>https://dovonto.github.io/apps/getting-started/</guid>
       <description>
 
 &lt;h1 id=&#34;getting-started&#34;&gt;Getting started&lt;/h1&gt;

@@ -2,98 +2,98 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>/apps/general-ledger-analytics/</loc>
+    <loc>https://dovonto.github.io/apps/apps/general-ledger-analytics/</loc>
     <lastmod>2013-06-21T11:27:27-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/apps/nitro/nitro/</loc>
+    <loc>https://dovonto.github.io/apps/apps/nitro/nitro/</loc>
     <lastmod>2013-06-21T11:27:27-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/apps/saas-subscription-analytics/nitro/</loc>
+    <loc>https://dovonto.github.io/apps/apps/saas-subscription-analytics/nitro/</loc>
     <lastmod>2013-06-21T11:27:27-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/about/</loc>
+    <loc>https://dovonto.github.io/apps/about/</loc>
   </url>
   
   <url>
-    <loc>/getting-started/</loc>
+    <loc>https://dovonto.github.io/apps/getting-started/</loc>
   </url>
   
   <url>
-    <loc>/about/</loc>
+    <loc>https://dovonto.github.io/apps/about/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/analytics/</loc>
-    <lastmod>2013-06-21T11:27:27-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/apps/</loc>
+    <loc>https://dovonto.github.io/apps/tags/analytics/</loc>
     <lastmod>2013-06-21T11:27:27-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/development/</loc>
+    <loc>https://dovonto.github.io/apps/apps/</loc>
     <lastmod>2013-06-21T11:27:27-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>https://dovonto.github.io/apps/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dovonto.github.io/apps/categories/development/</loc>
     <lastmod>2013-06-21T11:27:27-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/general-ledger/</loc>
+    <loc>https://dovonto.github.io/apps/</loc>
     <lastmod>2013-06-21T11:27:27-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/getting-started/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/hello/</loc>
+    <loc>https://dovonto.github.io/apps/tags/general-ledger/</loc>
     <lastmod>2013-06-21T11:27:27-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/nitro/</loc>
+    <loc>https://dovonto.github.io/apps/getting-started/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dovonto.github.io/apps/categories/hello/</loc>
     <lastmod>2013-06-21T11:27:27-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/sales/</loc>
+    <loc>https://dovonto.github.io/apps/tags/nitro/</loc>
     <lastmod>2013-06-21T11:27:27-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>https://dovonto.github.io/apps/tags/sales/</loc>
+    <lastmod>2013-06-21T11:27:27-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/wow/</loc>
+    <loc>https://dovonto.github.io/apps/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dovonto.github.io/apps/categories/wow/</loc>
     <lastmod>2013-06-21T11:27:27-04:00</lastmod>
     <priority>0</priority>
   </url>

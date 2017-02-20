@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nitro on Dovonto App Site</title>
-    <link>/tags/nitro/index.xml</link>
+    <link>https://dovonto.github.io/apps/tags/nitro/index.xml</link>
     <description>Recent content in Nitro on Dovonto App Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="/tags/nitro/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://dovonto.github.io/apps/tags/nitro/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Nitro: A quick and simple profiler for Go</title>
-      <link>/apps/nitro/nitro/</link>
+      <link>https://dovonto.github.io/apps/apps/nitro/nitro/</link>
       <pubDate>Fri, 21 Jun 2013 11:27:27 -0400</pubDate>
       
-      <guid>/apps/nitro/nitro/</guid>
+      <guid>https://dovonto.github.io/apps/apps/nitro/nitro/</guid>
       <description>
 
 &lt;h1 id=&#34;nitro&#34;&gt;Nitro&lt;/h1&gt;

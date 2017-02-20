@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Analytics on Dovonto App Site</title>
-    <link>/tags/analytics/index.xml</link>
+    <link>https://dovonto.github.io/apps/tags/analytics/index.xml</link>
     <description>Recent content in Analytics on Dovonto App Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="/tags/analytics/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://dovonto.github.io/apps/tags/analytics/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>General Ledger Analytics</title>
-      <link>/apps/general-ledger-analytics/</link>
+      <link>https://dovonto.github.io/apps/apps/general-ledger-analytics/</link>
       <pubDate>Fri, 21 Jun 2013 11:27:27 -0400</pubDate>
       
-      <guid>/apps/general-ledger-analytics/</guid>
+      <guid>https://dovonto.github.io/apps/apps/general-ledger-analytics/</guid>
       <description>
 
 &lt;p&gt;&lt;img src=&#34;min2.jpg&#34; alt=&#34;Page Image&#34; /&gt;&lt;/p&gt;
@@ -58,10 +58,10 @@
     
     <item>
       <title>SaaS Subscription Analytics</title>
-      <link>/apps/saas-subscription-analytics/nitro/</link>
+      <link>https://dovonto.github.io/apps/apps/saas-subscription-analytics/nitro/</link>
       <pubDate>Fri, 21 Jun 2013 11:27:27 -0400</pubDate>
       
-      <guid>/apps/saas-subscription-analytics/nitro/</guid>
+      <guid>https://dovonto.github.io/apps/apps/saas-subscription-analytics/nitro/</guid>
       <description>
 
 &lt;p&gt;You can use the &lt;a href=&#34;https://github.com/dovonto/dovonto.github.io/edit/master/README.md&#34;&gt;editor on GitHub&lt;/a&gt; to maintain and preview the content for your website in Markdown files.&lt;/p&gt;
