@@ -6,25 +6,20 @@
     <description>Recent content in Abouts on Dovonto App Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Sun, 01 Jan 2017 12:00:00 +0000</lastBuildDate>
     <atom:link href="https://dovonto.github.io/apps/about/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title></title>
+      <title>About Dovonto Apps</title>
       <link>https://dovonto.github.io/apps/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Jan 2017 12:00:00 +0000</pubDate>
       
       <guid>https://dovonto.github.io/apps/about/</guid>
       <description>
 
 &lt;h1 id=&#34;what-are-dovonto-apps&#34;&gt;What are Dovonto Apps&lt;/h1&gt;
 
-&lt;p&gt;Say something about apps&lt;/p&gt;
-
-&lt;h2 id=&#34;business-problem-description&#34;&gt;Business Problem Description&lt;/h2&gt;
-
-&lt;p&gt;Nitro is a quick and easy performance analyzer library for Go.
-It is useful for comparing A/B against different drafts of functions
-or different functions.&lt;/p&gt;
+&lt;p&gt;Dovont Apps is a collective term for a business case study or a business solution.&lt;/p&gt;
 
 &lt;h2 id=&#34;how-to-submit-the-apps&#34;&gt;How to submit the apps&lt;/h2&gt;
 
